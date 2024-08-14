@@ -40,7 +40,6 @@ if total_pessoas > 0:
 else:
     media_idade = media_peso = media_altura = percentual_feminino = percentual_masculino = 0
 
-# Exibição dos resultados
 print(f"Média de idade: {media_idade:.2f} anos")
 print(f"Média de peso: {media_peso:.2f} kg")
 print(f"Média de altura: {media_altura:.2f} cm")
